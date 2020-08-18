@@ -8,5 +8,5 @@ cask 'scrapple' do
 	appcast 'https://Scrapple.pythonanywhere.com/static/appcast.xml'
 
 	auto_updates true
-	app 'Scrapple.app'
+	app 'scrapple.app'
 end
