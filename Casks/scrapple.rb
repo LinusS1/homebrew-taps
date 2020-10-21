@@ -1,8 +1,8 @@
 cask 'scrapple' do
-	version '2.0'
-	sha256 '8e29e9ff1465db86f6b063de755284cab41ddc67c43fe9e31a38ae591afc3cb6'
+	version '2.0.1'
+	sha256 '29ffadb1341b26b9b189720b197b9273832f68f110a71fa24bc7e892bb428987'
 	
-	url "https://github.com/LinusS1/Scrapple/releases/download/v#{version}/Scrapple.zip"
+	url "https://github.com/LinusS1/Scrapple/releases/download/v#{version}/Scrapple.app.zip"
 	name 'Scrapple'
 	homepage 'https://github.com/LinusS1/Scrapple'
 	appcast 'https://Scrapple.pythonanywhere.com/static/appcast.xml'
